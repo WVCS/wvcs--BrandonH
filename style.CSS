@@ -11,6 +11,13 @@ h1{
     
  /* Nav Bar Style
   
+<!DOCTYPE html>
+<html>
+<head>
+
+
+
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -41,7 +48,7 @@ li a {
   text-decoration: none;
 }
 
-</style>
+
 </head>
 <body>
 

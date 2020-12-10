@@ -13,10 +13,6 @@ h1{
  
 
 
-<html>
-<head>
-<style>
-
 ul {
   list-style-type: none;
   margin: 0;
@@ -47,8 +43,7 @@ li a {
   text-decoration: none;
 }
 
-</style>
-</head>
+
 <body>
 
 <ul>
@@ -59,4 +54,4 @@ li a {
 </ul>
 
 </body>
-</html>
+
